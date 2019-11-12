@@ -12,6 +12,8 @@ Current custom-components for this card:
 * Install this card by copying `bring-shopping-list-card.js` to your `www/custom-lovelace/` folder. If you're copy/pasting the code always copy from raw files on github (button on top right when viewing code).
 * Include it in its own folder like so: `www/custom-lovelace/bring-shopping-list-card.js`
 
+You can also install this using HACS by adding this repository
+
 This goes into ui-lovelace.yaml under "resources:"
 
 ```
