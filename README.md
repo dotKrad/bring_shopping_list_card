@@ -41,7 +41,7 @@ This card has many customization options, but none are required to use the card.
 |-|-|-|-|
 |type|string|**REQUIRED**|<code>**custom:bring-shopping-list-card**</code>|
 |entity|string|**REQUIRED**|The entity id of the custom component. Example <code>**sensor.bring_shopping_list_home**</code> |
-|title|string|optional|Title displayed at top of card.|
+|name|string|optional|Name displayed at top of card.|
 |item_height|number|63|Height of items to show.|
 |item_width|number|90|Width of items to show.|
 |purchase_color|string|#ee524f|Background color of items in the purchase list.
