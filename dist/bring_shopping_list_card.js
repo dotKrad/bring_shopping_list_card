@@ -1,5 +1,5 @@
 const LitElement = Object.getPrototypeOf(
-  customElements.get("hui-view")
+  customElements.get("hui-masonry-view")
 );
 
 const html = LitElement.prototype.html;
